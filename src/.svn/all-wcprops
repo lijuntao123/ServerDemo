@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/MySource/!svn/ver/38/trun/ServerDemo/src
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/MySource/!svn/ver/38/trun/ServerDemo/src/AndroidManifest.xml
+END
+xmlStr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/MySource/!svn/ver/43/trun/ServerDemo/src/xmlStr.xml
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/MySource/!svn/ver/38/trun/ServerDemo/src/dom4j-1.6.1.jar
+END
+jaxen-1.1-beta-9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/MySource/!svn/ver/38/trun/ServerDemo/src/jaxen-1.1-beta-9.jar
+END

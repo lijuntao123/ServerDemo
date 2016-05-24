@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apps>
+	<app email="123@foxmail.com">
+		<appUrl>E:\Data\java\proj_1\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\plcamr\file/1377139068233.2.1.1575_android.apk
+		</appUrl>
+		<appName>QQ</appName>
+		<icon>E:\\1377139068233.2.1.1575_android_icon.png</icon>
+		<package>com.tencent.mobileqq</package>
+		<versionCode>66</versionCode>
+		<versionName>4.2.1</versionName>
+		<apkSize>24.12</apkSize>
+	</app>
+</apps>
